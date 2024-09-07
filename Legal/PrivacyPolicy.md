@@ -10,9 +10,9 @@ Wafer Launcher ("we," "our," or "us") respects your privacy and is committed to 
 
 We may collect the following types of information:
 
--   Account Information: Information related to your account, such as username, email, and login details through third-party services like Discord.
--   Device Information: Data about your device, including system and performance data.
--   Usage Data: Information on how you use the app, including actions and interactions within the app.
+-   **Account Information:** Information related to your account, such as username, email, profile picture URL, etc., through third-party services like Discord.
+-   **Device Information:** Data about your device, including system and performance data.
+-   **Usage Data:** Information on how you use the app, including actions and interactions within the app.
 
 ## 3. How We Use Your Information
 
